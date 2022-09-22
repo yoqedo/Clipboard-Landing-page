@@ -18,7 +18,7 @@ Users should be able to:
 
 ### Links
 
-- Live Site URL: [Add live site URL here](https://y05.netlify.com)
+- Live Site URL: [Preview](https://y05.netlify.com)
 
 ## My process
 - Defining HTML Elements
